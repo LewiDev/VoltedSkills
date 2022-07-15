@@ -1,0 +1,9 @@
+name: VoltedSkills
+version: '${project.version}'
+main: me.lewi.volted.skills
+api-version: 1.19
+authors: [ LewiDev ]
+depend: [Essentials]
+description: A Skills plugin for Volted
+commands:
+  skills:

@@ -1,0 +1,9 @@
+
+DEFAULTEXP: 123
+
+#Database
+HOST: "localhost"
+PORT: 3306
+DATABASE: "mineskieseco"
+USERNAME: "root"
+PASSWORD: ""
