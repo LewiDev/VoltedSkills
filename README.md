@@ -8,3 +8,5 @@ you obtain "skill points" by purchasing then with vanilla EXP
 these skills give you different effects. or extra hearts.
 
 SQL
+
+VIDEO: https://streamable.com/5d3011
